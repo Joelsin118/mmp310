@@ -1,0 +1,14 @@
+input,
+button {
+    display: block;
+    margin-bottom: .5em;
+}
+
+button {
+    background-color: aqua;
+    margin-bottom: auto;
+}
+
+#container {
+    padding: 3px 3px 3px 3px;
+}
